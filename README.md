@@ -1,1 +1,1 @@
-# Ice-Cream-Parlor-ALGO
+# Ice-Cream-Parlor-ALGO.This program finds two ice cream flavors whose prices add up to a given amount by using a dictionary to store and quickly check complements, then returns their 1-based indices.
